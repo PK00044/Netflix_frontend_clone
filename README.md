@@ -17,7 +17,6 @@ This repository contains the code for a Netflix frontend clone built using HTML 
 ## Demo
 
 A live demo of the project can be viewed [here](https://netflix-frontend-clone-ten.vercel.app/).  
-*(Replace `#` with the actual link if you deploy the project.)*
 
 ## Features
 
@@ -87,7 +86,6 @@ netflix-frontend-clone/
 )  
 ![Homepage Screenshot](![Screenshot (106)](https://github.com/user-attachments/assets/e119c63e-53d3-4cbc-b55c-e046ca19ca83)
 )  
-*(Replace `#` with an actual screenshot link.)*
 
 ### Responsive Design
 ![Responsive Screenshot](#)  
@@ -107,5 +105,5 @@ Contributions are what make the open-source community such an amazing place to l
 ## Acknowledgments
 
 - Netflix for the original design inspiration.
-- f[Figma](https://figma.com/) for the icons.
+- [Figma](https://figma.com/) for the icons.
 
