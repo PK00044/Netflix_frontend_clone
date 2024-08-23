@@ -35,7 +35,13 @@ nav {
   height: 100px;
 }
 
-nav img {
+/* nav img {
+  color: red;
+  width: 130px;
+  position: relative;
+  z-index: 10;
+} */
+nav svg {
   color: red;
   width: 130px;
   position: relative;
