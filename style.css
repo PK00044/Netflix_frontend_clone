@@ -41,7 +41,7 @@ nav {
   position: relative;
   z-index: 10;
 } */
-nav svg {
+nav .logo {
   color: red;
   width: 130px;
   position: relative;
