@@ -4,7 +4,6 @@ This repository contains the code for a Netflix frontend clone built using HTML 
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
@@ -14,9 +13,6 @@ This repository contains the code for a Netflix frontend clone built using HTML 
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-## Demo
-
-A live demo of the project can be viewed [here](https://netflix-frontend-clone-ten.vercel.app/).  
 
 ## Features
 
